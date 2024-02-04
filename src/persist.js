@@ -10,7 +10,7 @@ export default (() => {
 
   var a = {
     reset: () => {
-      minerals = 0;
+      minerals = 909090;
       level = 0;
       handSize = 3;
       maxEnergy = 5;
